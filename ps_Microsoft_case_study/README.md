@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://thumbs-prod.si-cdn.com/XZAbLQfIMN0vHVKxy9-WB7Pvoh0=/fit-in/1600x0/https://public-media.si-cdn.com/filer/03/6f/036fc075-1836-4c50-a249-a27c6251948b/06_23_2014_hacking_baseline.gif">
+  <img width="460" height="300" src="https://images.techhive.com/images/article/2015/02/022315-detect-malware-1-100569092-primary.idge.jpg">
 </p>
 
 
